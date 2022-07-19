@@ -31,7 +31,7 @@ Welcome to Our Application
 ## First Step
 
 # Client :
-
-
++ cd Client
++ npm run dev
 # Server :
 
