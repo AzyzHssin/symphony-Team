@@ -1,5 +1,5 @@
 import express, { Request, Response } from "express";
-import { userModel } from "../database/users";
+import { userModel } from "../dataBase/users";
 import mongoose from "mongoose";
 
 // const client = new MongoClient("mongodb://localhost:27017/betterB");
