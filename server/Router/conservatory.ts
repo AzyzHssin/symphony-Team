@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 
 const router = express.Router();
 
-router.get()
+router.get("/",(req: Request, res: Response){})
 
 router.post()
 
