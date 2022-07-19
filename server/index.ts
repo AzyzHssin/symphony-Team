@@ -1,14 +1,11 @@
-import express from "express";
+import express from "express"
 import { json } from "body-parser";
 import mongoose from "mongoose";
-import cors from "cors";
+// import cors from "cors";
 
 const app = express()
-const Port= 5000 
-app.use(cors());
+const Port= 2000 
 
-
-app.use(json());
 
 
 
