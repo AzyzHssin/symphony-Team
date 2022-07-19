@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "nuxt-vite": "^0.3.5"
+  }
+}
